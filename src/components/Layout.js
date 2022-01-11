@@ -43,5 +43,4 @@ export default Layout;
 
 Layout.propTypes = {
   pageTitle: PropTypes.string.isRequired,
-  children: PropTypes.func.isRequired,
 }
